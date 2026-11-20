@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=National+Park:wght@200..800&display=swap');
 
 :root {
   /* Color palette */
@@ -11,8 +11,8 @@
   --secondary-color: #c97979;
 
   /* Fonts */
-  --heading-font: "DM Serif Display", serif;
-  --paragraph-font: "Roboto", sans-serif;
+  --heading-font: "Momo Signature", cursive;
+  --paragraph-font: "National Park", sans-serif;
 
   /* Semantic colors */
   --headline-color-on-white: var(--color-1);
