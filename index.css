@@ -210,12 +210,11 @@ h4 {
 table {
   display: flex;
   flex-direction: column;
-  max-width: 297px;
+  max-width: 350px;
   margin: 10px;
   padding: 0;
   border: 2px solid var(--paragraph-color-on-white);
   background-color: var(--paragraph-color-on-color);
-  box-shadow: 5px 5px 10px var(--color-1);
   transition:
     transform 0.5s ease,
     opacity 0.3s ease;
